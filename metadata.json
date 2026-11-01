@@ -1,0 +1,6 @@
+{
+  "name": "Mais Clientes V2 - Sci-Fi Command Center",
+  "description": "Benchmark visual futurista para o Mais Clientes V2, com ambiente imersivo de sala de controle sci-fi, partículas dinâmicas e cockpit de prospecção.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
